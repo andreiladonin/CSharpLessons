@@ -1,0 +1,6 @@
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson16\bin\Debug\lesson16.exe.config
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson16\bin\Debug\lesson16.exe
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson16\bin\Debug\lesson16.pdb
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson16\obj\Debug\lesson16.csproj.CoreCompileInputs.cache
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson16\obj\Debug\lesson16.exe
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson16\obj\Debug\lesson16.pdb

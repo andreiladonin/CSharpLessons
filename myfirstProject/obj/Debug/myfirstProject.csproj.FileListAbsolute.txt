@@ -1,0 +1,7 @@
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\myfirstProject\bin\Debug\myfirstProject.exe.config
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\myfirstProject\bin\Debug\myfirstProject.exe
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\myfirstProject\bin\Debug\myfirstProject.pdb
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\myfirstProject\obj\Debug\myfirstProject.csprojAssemblyReference.cache
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\myfirstProject\obj\Debug\myfirstProject.csproj.CoreCompileInputs.cache
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\myfirstProject\obj\Debug\myfirstProject.exe
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\myfirstProject\obj\Debug\myfirstProject.pdb

@@ -1,0 +1,7 @@
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson19\bin\Debug\lesson19.exe.config
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson19\bin\Debug\lesson19.exe
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson19\bin\Debug\lesson19.pdb
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson19\obj\Debug\lesson19.csprojAssemblyReference.cache
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson19\obj\Debug\lesson19.csproj.CoreCompileInputs.cache
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson19\obj\Debug\lesson19.exe
+C:\Users\ladon\Desktop\Документы\PROJECTS_Csharp\lesson19\obj\Debug\lesson19.pdb
